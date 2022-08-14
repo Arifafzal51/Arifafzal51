@@ -1,3 +1,4 @@
+![Arif Afzal](https://user-images.githubusercontent.com/89844623/184552828-0700fbb8-e85f-49d8-b5e8-29a1b296edd4.gif)
 <h1 align="center">Hi 👋, I'm Arif Afzal</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
