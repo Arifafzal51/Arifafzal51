@@ -1,4 +1,4 @@
-<h1 align="![kali-preview-boot](https://user-images.githubusercontent.com/89844623/184551861-03d88204-f740-48f2-9cd7-516acad34721.gif)
+
 center">Hi 👋, I'm Arif Afzal</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
