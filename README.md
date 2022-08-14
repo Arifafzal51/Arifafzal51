@@ -1,5 +1,4 @@
-
-center">Hi 👋, I'm Arif Afzal</h1>
+<h1 align="center">Hi 👋, I'm Arif Afzal</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifafzal51&label=Profile%20views&color=0e75b6&style=flat" alt="arifafzal51" /> </p>
