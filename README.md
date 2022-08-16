@@ -1,5 +1,13 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 ![Arif Afzal](https://user-images.githubusercontent.com/89844623/184552828-0700fbb8-e85f-49d8-b5e8-29a1b296edd4.gif)
 <h1 align="center">Hi 👋, I'm Arif Afzal</h1>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/arifafzal51/count.svg" />
+</p>
+
+
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifafzal51&label=Profile%20views&color=0e75b6&style=flat" alt="arifafzal51" /> </p>
