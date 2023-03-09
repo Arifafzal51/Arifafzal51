@@ -14,17 +14,17 @@
 
 <p align="left"> <a href="https://twitter.com/arifafzal16" target="blank"><img src="https://img.shields.io/twitter/follow/arifafzal16?logo=twitter&style=for-the-badge" alt="arifafzal16" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter App**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Flutter , CyberSecurity , DevOps , Python , Machine Learning**
+- 🌱 I’m currently learning **CyberSecurity , DevOps**
 
 - 👯 I’m looking to collaborate on **Open Surce , DevOps & FrontEnd**
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://arifafzal51.github.io/first-Website/](https://arifafzal51.github.io/first-Website/)
+- 👨‍💻 Visit my Website [Arif Afzal](https://arifafzals.social/)
 
-- 💬 Ask me about **Java , C , Sql , Shell Scripting , Linux**
+- 💬 Ask me about **Designing , Java , C , Sql , Shell Scripting , Linux**
 
 - 📫 How to reach me **arifafzal51@gmail.com**
 
